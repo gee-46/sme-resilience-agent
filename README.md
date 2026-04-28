@@ -27,7 +27,7 @@
 
 > Upload a sample Invoice and Purchase Order to see real-time AI risk detection.
 
-> 💡 Tip: Use any sample invoice + PO to quickly test variance detection.
+> 💡 Tip: Try changing the invoice amount to trigger a >3% variance and observe the Risk Verdict.
 
 ---
 
@@ -35,7 +35,7 @@
 
 Supply chains don't fail only because of logistics — they fail because of **financial vulnerabilities**.
 
-SMEs (90%+ of global businesses) are frequent targets of:
+SMEs (over 90% of global businesses) are frequent targets of:
 
 - 💸 Invoice manipulation  
 - 🎭 Vendor impersonation (BEC attacks)  
@@ -183,8 +183,8 @@ This is **not just another AI project**:
 
 **405 Not Found**
 
-**Gautam N Chipkar (Team Lead)**
-🔗 GitHub: [https://github.com/gee-46](https://github.com/gee-46)
+**Gautam N Chipkar (Team Lead)**  
+🔗 GitHub: https://github.com/gee-46  
 
 🏫 SG Balekundri Institute of Technology (SGBIT)
 
