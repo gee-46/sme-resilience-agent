@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/AI-Gemini%201.5%20Flash-green" />
   <img src="https://img.shields.io/badge/Backend-Python%203.10+-yellow" />
   <img src="https://img.shields.io/badge/Frontend-Streamlit-red" />
-  <img src="https://img.shields.io/badge/Deployment-Google%20Cloud%20Run-blue" />
+  <img src="https://img.shields.io/badge/Deployment-Streamlit%20Cloud-orange" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ flowchart LR
 | 🧠 AI Engine    | Gemini 1.5 Flash (Google GenAI SDK) |
 | 🖥️ Frontend    | Streamlit                           |
 | ⚙️ Backend      | Python 3.10+                        |
-| ☁️ Deployment   | Google Cloud Run                    |
+| ☁️ Deployment     | Streamlit Community Cloud         |
 | 🧩 Architecture | Serverless Microservices            |
 
 ---
