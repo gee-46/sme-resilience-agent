@@ -1,11 +1,9 @@
-
-
 # 🛡️ SME Resilience Agent
 
 ### *AI-Powered Financial Integrity for Supply Chains*
 
-
 **Google Solution Challenge 2026 | Team 405 Not Found**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20for-Google%20Solution%20Challenge%202026-blue" />
   <img src="https://img.shields.io/badge/AI-Gemini%201.5%20Flash-green" />
@@ -23,22 +21,32 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Try the App:** https://sme-resilience-agent.streamlit.app/
+
+> Upload a sample Invoice and Purchase Order to see real-time AI risk detection.
+
+> 💡 Tip: Use any sample invoice + PO to quickly test variance detection.
+
+---
+
 ## 🚀 Why This Matters
 
-Supply chains don’t fail only because of logistics — they fail because of **financial vulnerabilities**.
+Supply chains don't fail only because of logistics — they fail because of **financial vulnerabilities**.
 
 SMEs (90%+ of global businesses) are frequent targets of:
 
-* 💸 Invoice manipulation
-* 🎭 Vendor impersonation (BEC attacks)
-* 🔁 Bank detail fraud
+- 💸 Invoice manipulation  
+- 🎭 Vendor impersonation (BEC attacks)  
+- 🔁 Bank detail fraud  
 
-**Impact:**
+**Impact:**  
 A single fraudulent transaction can cascade into:
 
-* Delayed shipments
-* Cash flow disruption
-* System-wide bottlenecks
+- Delayed shipments  
+- Cash flow disruption  
+- System-wide bottlenecks  
 
 👉 **We solve this at the source — financial verification.**
 
@@ -48,15 +56,15 @@ A single fraudulent transaction can cascade into:
 
 **SME Resilience Agent** is a **multimodal AI forensic auditor** that:
 
-* Cross-checks **Invoices vs Purchase Orders**
-* Detects **price anomalies, fraud signals, and inconsistencies**
-* Generates **explainable risk verdicts** for decision-makers
+- Cross-checks **Invoices vs Purchase Orders**  
+- Detects **price anomalies, fraud signals, and inconsistencies**  
+- Generates **explainable risk verdicts** for decision-makers  
 
 Powered by **Gemini 1.5 Flash**, it combines:
 
-* Document understanding
-* Financial reasoning
-* Explainable AI
+- Document understanding  
+- Financial reasoning  
+- Explainable AI  
 
 ---
 
@@ -65,45 +73,43 @@ Powered by **Gemini 1.5 Flash**, it combines:
 ### 🔍 Multimodal Intelligence
 
 Processes:
-
-* 📄 PDF Invoices
-* 🧾 PO Documents (Images / Digital)
+- 📄 PDF Invoices  
+- 🧾 PO Documents (Images / Digital)  
 
 ---
 
 ### ⚠️ Real-Time Risk Detection
 
-* Flags **>3% price deviations**
-* Detects **bank account mismatches**
-* Identifies **vendor/domain spoofing**
+- Flags **>3% price deviations**  
+- Detects **bank account mismatches**  
+- Identifies **vendor/domain spoofing**  
 
 ---
 
 ### 🧾 Explainable AI (Not a Black Box)
 
 Clear reasoning with traceable steps:
-
-* Entity extraction
-* Line-item comparison
-* Variance calculation
-* Risk classification
+- Entity extraction  
+- Line-item comparison  
+- Variance calculation  
+- Risk classification  
 
 ---
 
 ### 📊 Financial Proof Engine
 
-[
-\frac{|Invoice - PO|}{PO} > 3%
-]
+The system flags anomalies using a strict variance threshold:
 
-Visual + mathematical validation for **trust and auditability**
+`|Invoice Amount - PO Amount| / PO Amount > 3%`
+
+This ensures objective, auditable, and explainable financial validation.
 
 ---
 
 ### 🔐 Resilience by Design
 
-* **Demo Mode fallback** for unstable networks
-* Built for **real-world constraints in SMEs**
+- **Demo Mode fallback** for unstable networks  
+- Built for **real-world constraints in SMEs**  
 
 ---
 
@@ -122,13 +128,13 @@ flowchart LR
 
 ## 🛠️ Tech Stack
 
-| Layer           | Technology                          |
-| --------------- | ----------------------------------- |
-| 🧠 AI Engine    | Gemini 1.5 Flash (Google GenAI SDK) |
-| 🖥️ Frontend    | Streamlit                           |
-| ⚙️ Backend      | Python 3.10+                        |
-| ☁️ Deployment     | Streamlit Community Cloud         |
-| 🧩 Architecture | Serverless Microservices            |
+| Layer           | Technology                             |
+| --------------- | -------------------------------------- |
+| 🧠 AI Engine    | Gemini 1.5 Flash (Google GenAI SDK)    |
+| 🖥️ Frontend    | Streamlit                              |
+| ⚙️ Backend      | Python 3.10+                           |
+| ☁️ Deployment   | Streamlit Community Cloud              |
+| 🧩 Architecture | Serverless (Streamlit Cloud Execution) |
 
 ---
 
@@ -166,10 +172,10 @@ This is **not just another AI project**:
 
 ## 🌐 Architecture Highlights
 
-* ⚡ Serverless → Scalable, cost-efficient
-* 🧠 AI-first → Decision engine, not just automation
-* 🔄 Feedback-ready → Extensible for continuous learning
-* 🔐 Secure → Designed for financial data sensitivity
+* ⚡ Lightweight & scalable deployment
+* 🧠 AI-first decision engine
+* 🔄 Extensible for future learning
+* 🔐 Designed for financial data security
 
 ---
 
@@ -194,17 +200,7 @@ This is **not just another AI project**:
 
 ---
 
-## 📸 Demo (Add Later)
-
-* UI Screenshot
-* Sample Invoice vs PO Analysis
-* Risk Verdict Output
-
----
-
 ## 🏁 Final Note
 
-> Supply chains don’t just need speed — they need **trust**.
-> We’re building the layer that ensures both.
-
----
+> Supply chains don't just need speed — they need **trust**.
+> We're building the layer that ensures both.
